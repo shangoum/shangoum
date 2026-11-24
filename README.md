@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jasser-chaoued"><img src="https://img.shields.io/badge/LinkedIn-jasser--chaoued-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Location-Rennes,%20France-2ea44f?style=flat" alt="Rennes, France">
+  <img src="https://img.shields.io/badge/Location-Rennes,%20France-2ea44f?style=flat" alt="France">
   <img src="https://img.shields.io/badge/Experience-5%2B%20years-555?style=flat" alt="5+ years">
 </p>
 
